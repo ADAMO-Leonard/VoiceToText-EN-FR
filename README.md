@@ -57,7 +57,6 @@ Ensuite, vous devez télécharger le modèle [vosk-model-small-fr-0.22](https://
 
 Pour finir, télécharger le jupyter notebook dans le dépôt.
 
----
 
 
 
